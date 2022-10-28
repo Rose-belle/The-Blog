@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
  .hero-image {
-        background-image: url("/img/sunset.jpg");
+        background-image: url("/img/Hero.jpg");
         background-color: #cccccc;
         height: 500px;
         background-position: center;
