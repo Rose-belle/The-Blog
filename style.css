@@ -4,7 +4,13 @@
     font-family: 'Josefin Sans' , sans-serif;
     box-sizing: border-box;
 }
-
+.hero {
+    height: 100vh;
+    width: 100%;
+    background-image: url("../img/Hero.jpg");
+    background-size: cover;
+    background-position: center
+ }S
 
 nav {
     display: flex;
